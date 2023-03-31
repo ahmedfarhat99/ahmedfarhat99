@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React, Node.js**
+- 💬 Ask me about **HTML, CSS, React**
 
 - 📫 How to reach me **contact@ahmedfarhat.com**
 
