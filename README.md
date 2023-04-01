@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/rooot/image/upload/v1680246088/Portfolio/Banner_aqw2fx.gif)](https://ahmedfarhat.com)
+[![MasterHead](https://res.cloudinary.com/rooot/image/upload/v1680246088/Portfolio/profile/Banner_aqw2fx.gif)](https://ahmedfarhat.com)
 <h1 align="center">Hi There! 👋, I'm <span title="ROOT">Ahmed Farhat</span></h1>
 <h3 align="center">A software engineering student</h3>
 <br>
@@ -36,7 +36,7 @@
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/html_dfn7zc.svg" alt="HTML" title="HTML" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/css_dahv7e.svg" alt="CSS" title="CSS" width="50" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/javascript_bd9odo.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/bootstrap_znud5n.svg" alt="Bootstrap" title="Bootstrap" width="50" height="40"/>
+<img src="https://res.cloudinary.com/rooot/image/upload/v1680320998/Portfolio/profile/technologies/bootstrap_nuswui.svg" alt="Bootstrap" title="Bootstrap" width="50" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257554/Portfolio/profile/technologies/nodejs_pry9q9.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257555/Portfolio/profile/technologies/react_b0oyya.svg" alt="React.js" title="React.js" width="50" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/expressjs_slx2hk.svg" alt="Express.js" title="Express.js" width="40" height="40"/>
