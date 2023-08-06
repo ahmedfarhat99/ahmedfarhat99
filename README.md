@@ -41,7 +41,6 @@
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257555/Portfolio/profile/technologies/react_b0oyya.svg" alt="React.js" title="React.js" width="50" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/expressjs_slx2hk.svg" alt="Express.js" title="Express.js" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257554/Portfolio/profile/technologies/mongodb_mb8zos.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1680257554/Portfolio/profile/technologies/json_kqdl68.svg" alt="JSON" title="JSON" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257554/Portfolio/profile/technologies/postman_qahqyi.svg" alt="Postman" title="Postman" width="50" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/figma_awl6zr.svg" alt="Figma" title="Figma" width="40" height="40"/>
 </p>
