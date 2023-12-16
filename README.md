@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfarhat99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfarhat99" /> </p>
 
-- 🔭 I’m currently working on **Mobile application designed to strengthen collaboration within companies**
+- 🔭 I’m currently working on a **mobile application designed to strengthen collaboration within companies**
 
 - 🌱 I’m currently using **MERN Stack**
 
@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **contact@ahmedfarhat.com**
 
-- 📄 Know more about me [**Download my CV**](https://cv.ahmedfarhat.com/en)
+- 📄 Know more about me [**Download my CV**](https://cv.ahmedfarhat.com/en){:target="_blank"}
 
-- 👨‍💻 Take a look at my projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio)
+- 👨‍💻 Take a look at my projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio){:target="_blank"}
 
 
 <h3 align="left">Contact:</h3>
