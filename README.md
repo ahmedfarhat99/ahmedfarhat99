@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfarhat99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfarhat99" /> </p>
 
-- 🔭 I’m currently working on **E-commerce web application**
+- 🔭 I’m currently working on **Mobile application designed to strengthen collaboration within companies**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently using **MERN Stack** technologies
 
-- 💬 Ask me about **HTML, CSS, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, Express, React, MongoDB**
 
 - 📫 How to reach me **contact@ahmedfarhat.com**
 
-- 📄 Know more about me [**Download my CV**](https://en-cv.ahmedfarhat.com)
+- 📄 Know more about me [**Download my CV**](https://cv.ahmedfarhat.com/en)
 
 - 👨‍💻 Take a look at my projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio)
 
