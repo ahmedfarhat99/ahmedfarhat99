@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **contact@ahmedfarhat.com**
 
-- 📄 Know more about me [**Download my CV**](https://cv.ahmedfarhat.com/en){:target="_blank"}
+- 📄 Know more about me [**Download my CV**](https://cv.ahmedfarhat.com/en)
 
-- 👨‍💻 Take a look at my projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio){:target="_blank"}
+- 👨‍💻 Take a look at my projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio)
 
 
 <h3 align="left">Contact:</h3>
