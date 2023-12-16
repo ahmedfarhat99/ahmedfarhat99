@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mobile application designed to strengthen collaboration within companies**
 
-- 🌱 I’m currently using **MERN Stack** technologies
+- 🌱 I’m currently using **MERN Stack**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Express, React, MongoDB**
 
@@ -23,11 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedfarhat99/" target="_blank" rel="noreferrer" title="LinkedIn"><img align="center" src="https://res.cloudinary.com/rooot/image/upload/v1680248430/Portfolio/profile/contact/linkedin_du8yzr.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/15625010/ahmed-farhat" target="_blank" rel="noreferrer" title="Stack Overflow"><img align="center" src="https://res.cloudinary.com/rooot/image/upload/v1680248507/Portfolio/profile/contact/stack-overflow_j5r35h.svg" alt="Stack Overflow" height="40" width="50" /></a>
-<a href="https://www.credly.com/users/ahmedfarhat/badges" target="_blank" rel="noreferrer" title="Credly"><img align="center" src="https://res.cloudinary.com/rooot/image/upload/v1680248430/Portfolio/profile/contact/credly_dyimyh.svg" alt="Credly" height="40" width="40" /></a>
-<a href="https://wa.me/21654436840" target="_blank" rel="noreferrer" title="WhatsApp"><img align="center" src="https://res.cloudinary.com/rooot/image/upload/v1680248430/Portfolio/profile/contact/whatsapp_fyzny0.svg" alt="WhatsApp" height="40" width="50" /></a>
-<a href="https://www.instagram.com/ahmed.farhat__/" target="_blank" rel="noreferrer" title="Instagram"><img align="center" src="https://res.cloudinary.com/rooot/image/upload/v1680248431/Portfolio/profile/contact/instagram_urgxpn.svg" alt="Instagram" height="40" width="40" /></a>
 <a href="https://alpha.ahmedfarhat.com" target="_blank" rel="noreferrer" title="Discord Server"><img align="center" src="https://res.cloudinary.com/rooot/image/upload/v1680249273/Portfolio/profile/contact/discord_td1qzc.svg" alt="Discord" height="40" width="50" /></a>
-<a href="https://www.youtube.com/channel/UCgqJJ2ZBRUrAuhCXXO5vYxg" target="_blank" rel="noreferrer" title="YouTube"><img align="center" src="https://res.cloudinary.com/rooot/image/upload/v1680290135/Portfolio/profile/contact/youtube_c4dwpm.svg" alt="YouTube" height="40" width="40" /></a>
 </p>
 
 
