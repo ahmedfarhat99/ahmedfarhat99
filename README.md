@@ -16,7 +16,7 @@
 
 - 📄 Know more about me [**Download my CV**](https://cv.ahmedfarhat.com/en)
 
-- 👨‍💻 Take a look at my projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio) <a href="https://ahmedfarhat.com/portfolio" target="_blank">**My Portfolio**</a>
+- 👨‍💻 Take a look at my projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio)
 
 
 <h3 align="left">Contact:</h3>
