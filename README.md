@@ -31,7 +31,7 @@
 <p align="left">
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/html_dfn7zc.svg" alt="HTML" title="HTML" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/css_dahv7e.svg" alt="CSS" title="CSS" width="50" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/javascript_bd9odo.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> 
+<img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/javascript_bd9odo.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727150685/Portfolio/profile/technologies/typescript_bbucy4.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680320998/Portfolio/profile/technologies/bootstrap_nuswui.svg" alt="Bootstrap" title="Bootstrap" width="60" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727150684/Portfolio/profile/technologies/tailwind-css_np1roq.svg" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="40"/>
@@ -47,8 +47,7 @@
 
 <h3 align="left">Support:</h3>
 <p>
-<a href="https://www.buymeacoffee.com/ahmedfarhat"><img align="left" src="https://res.cloudinary.com/rooot/image/upload/v1680252323/Portfolio/profile/support/paypal_ln1dmf.png" height="50" width="200" alt="ahmedfarhat" /></a>
-<a href="https://www.buymeacoffee.com/ahmedfarhat"><img align="left" src="https://res.cloudinary.com/rooot/image/upload/v1680253188/Portfolio/profile/support/bakchich_s4elxo.png" height="50" width="200" alt="ahmedfarhat" /></a>
-<a href="https://www.buymeacoffee.com/ahmedfarhat"><img align="left" src="https://res.cloudinary.com/rooot/image/upload/v1680252323/Portfolio/profile/support/buymeacoffee_cp5tuc.png" height="50" width="200" alt="ahmedfarhat" /></a>
+<a href="https://ba9chich.com/ahmedfarhat"><img align="left" src="https://res.cloudinary.com/rooot/image/upload/v1680253188/Portfolio/profile/support/bakchich_s4elxo.png" height="50" width="200" alt="buymeacoffee" /></a>
+<a href="https://buymeacoffee.com/ahmedfarhat"><img align="left" src="https://res.cloudinary.com/rooot/image/upload/v1680252323/Portfolio/profile/support/buymeacoffee_cp5tuc.png" height="50" width="200" alt="ahmedfarhat" /></a>
 </p>
 <br><br>
