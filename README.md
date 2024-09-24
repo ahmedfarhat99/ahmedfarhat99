@@ -1,5 +1,5 @@
 [![MasterHead](https://res.cloudinary.com/rooot/image/upload/v1680246088/Portfolio/profile/Banner_aqw2fx.gif)](https://ahmedfarhat.com)
-<h1 align="center">Hi There! 👋, I'm <span title="ROOT">Ahmed Farhat</span></h1>
+<h1 align="center">Hi There! 👋, I'm <span title="ROOT">Ahmed FARHAT</span></h1>
 <h3 align="center">A Software Engineer</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/rooot/image/upload/v1727057537/Portfolio/myPicture.png">
