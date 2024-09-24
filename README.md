@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently using **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Express, React, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Tailwind CSS, MongoDB**
 
 - 📫 How to reach me **contact@ahmedfarhat.com**
 
 - 📄 Know more about me [**Download my CV**](https://cv.ahmedfarhat.com/en)
 
-- 👨‍💻 Take a look at my projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio)
+- 👨‍💻 Take a look at my completed projects on [**My Portfolio**](https://ahmedfarhat.com/portfolio)
 
 
 <h3 align="left">Contact:</h3>
