@@ -30,18 +30,18 @@
 <h3 align="left">Most used Technologies and Tools:</h3>
 <p align="left">
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153098/Portfolio/profile/technologies/html.png" alt="HTML" title="HTML" width="40" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1727153098/Portfolio/profile/technologies/css.png" alt="CSS" title="CSS" width="50" height="40"/>
+<img src="https://res.cloudinary.com/rooot/image/upload/v1727153098/Portfolio/profile/technologies/css.png" alt="CSS" title="CSS" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153098/Portfolio/profile/technologies/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153097/Portfolio/profile/technologies/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1727153097/Portfolio/profile/technologies/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="60" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1727153101/Portfolio/profile/technologies/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="40"/>
+<img src="https://res.cloudinary.com/rooot/image/upload/v1727153097/Portfolio/profile/technologies/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+<img src="https://res.cloudinary.com/rooot/image/upload/v1727153101/Portfolio/profile/technologies/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153100/Portfolio/profile/technologies/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1727153100/Portfolio/profile/technologies/reactNative.png" alt="React" title="React" width="50" height="40"/>
+<img src="https://res.cloudinary.com/rooot/image/upload/v1727153100/Portfolio/profile/technologies/reactNative.png" alt="React" title="React" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153101/Portfolio/profile/technologies/redux.png" alt="Redux" title="Redux" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153100/Portfolio/profile/technologies/axios.png" alt="Axios" title="Axios" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153098/Portfolio/profile/technologies/express.png" alt="Express.js" title="Express.js" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153098/Portfolio/profile/technologies/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1727153100/Portfolio/profile/technologies/postman.png" alt="Postman" title="Postman" width="50" height="40"/>
+<img src="https://res.cloudinary.com/rooot/image/upload/v1727153100/Portfolio/profile/technologies/postman.png" alt="Postman" title="Postman" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727153098/Portfolio/profile/technologies/figma.png" alt="Figma" title="Figma" width="40" height="40"/>
 </p>
 
