@@ -32,7 +32,7 @@
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/html_dfn7zc.svg" alt="HTML" title="HTML" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/css_dahv7e.svg" alt="CSS" title="CSS" width="50" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257553/Portfolio/profile/technologies/javascript_bd9odo.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-<img src="https://res.cloudinary.com/rooot/image/upload/v1727150685/Portfolio/profile/technologies/typescript_bbucy4.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+<img src="https://res.cloudinary.com/rooot/image/upload/v1727153097/Portfolio/profile/technologies/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680320998/Portfolio/profile/technologies/bootstrap_nuswui.svg" alt="Bootstrap" title="Bootstrap" width="60" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1727150684/Portfolio/profile/technologies/tailwind-css_np1roq.svg" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="40"/>
 <img src="https://res.cloudinary.com/rooot/image/upload/v1680257554/Portfolio/profile/technologies/nodejs_pry9q9.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
