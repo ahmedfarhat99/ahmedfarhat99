@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfarhat99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfarhat99" /> </p>
 
-- 🔭 I’m currently working on a **mobile application designed to strengthen collaboration within companies**
+- 🔭 Recently **graduated** and **available for freelance** projects.
 
 - 🌱 I’m currently using **MERN Stack**
 
